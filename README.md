@@ -12,3 +12,6 @@ I started learning how to use some of the already made VR scripts from the farml
 
 In Class 9/25
 rumpelstiltskin
+
+Lab01 Interactions and Intentions
+In order to complete the level, you must carry the two chickens to the hen house and the goat to red pen. I wanted a simple interactions in which users can get a feel for carrying objects and placing them on correct locations which will advance the level. I downloaded a chicken and goat model from the asset store.

@@ -684,6 +684,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MyScripts\TaskCompletion.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
@@ -1060,6 +1061,7 @@
     <None Include="Assets\VRTK\Prefabs\VRTK.Prefabs.Runtime.asmdef" />
     <None Include="Assets\VRTK\Samples\Farm\Scripts\Editor\VRTK.Samples.Farm.Editor.asmdef" />
     <None Include="Assets\VRTK\Samples\Farm\VRTK.Samples.Farm.Runtime.asmdef" />
+    <None Include="Assets\VertexColorFarmAnimals\Shaders\VertexColorUnlit.shader" />
     <None Include="Packages\com.unity.analytics\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef" />
     <None Include="Packages\com.unity.analytics\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef" />
     <None Include="Packages\com.unity.analytics\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef" />
